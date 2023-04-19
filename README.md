@@ -93,14 +93,6 @@ Para o protótipo de alta fidelidade foi utilizada a plataforma Figma.
 Os testes unitários de todas as funções da aplicação estão passando e cobrem no mínimo 70% de statements, functions, lines e branches.
 
 
-### 4.2 Testes de usabilidade
-
-Foi enviado o link da aplicação para um grupo de possíveis usuárias a fim de recolher comentários para analisar a necessidade de melhorias. A partir dos resultados foram consideradas as seguintes ações:
-
--
-- 
-
-
 ## 5. Objetivos alcançados
 
   - Usar VanillaJS  ✔
