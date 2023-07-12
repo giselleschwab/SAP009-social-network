@@ -1,5 +1,19 @@
 # Criando uma Rede Social
 
+<div align="center">
+<p> Ferramentas utilizadas </p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
+</div>   
+
+
 ## Índice
 
 * [1. Resumo do projeto](#1-resumo-do-projeto)
@@ -7,14 +21,11 @@
 * [3. Protótipos](#3-prototipos)
 * [4. Testes](#4-testes)
 * [5. Objetivos alcançados](#5-objetivos-alcancados)
-* [6. Ferramentas utilizadas](#6-ferramentas-utilizadas)
-* [7. Desenvolvedoras](#7-desenvolvedoras)
+* [6. Desenvolvedoras](#7-desenvolvedoras)
 
 ***
 
 ## 1. Resumo do projeto
-
-<p align="center"><img src="src/imagens/logo-lemos.png" width="200px";></p>
 
 Este projeto é uma rede social voltada para mulheres que gostariam de trocar informações sobre livros com a temática feminista. O objetivo é que as usuárias possam postar breves opiniões pessoais, a fim de compartilhar suas leituras, novas autoras e colaborar com o direcionamento de leitoras iniciantes.
 
@@ -108,22 +119,7 @@ Os testes unitários de todas as funções da aplicação estão passando e cobr
   - Fazer deploy do aplicativo e marcar a versão (git tag).  ✔
 
 
-## 6. Ferramentas utilizadas
-
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30px";/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30px";/>
-</div>   
-
-          
-## 7. Desenvolvedoras
+## 6. Desenvolvedoras
 
 Giselle Schwab Silva  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/giselle-schwab-silva-58930610a/)
 &nbsp;
