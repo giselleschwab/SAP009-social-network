@@ -1,7 +1,6 @@
-# Criando uma Rede Social
+# Social Network
 
 <div align="center">
-<p> Ferramentas utilizadas </p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30px";/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30px";/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30px";/>
@@ -14,121 +13,48 @@
 </div>   
 
 
-## Índice
+## 1. Project Summary
 
-* [1. Resumo do projeto](#1-resumo-do-projeto)
-* [2. Histórias de usuário](#2-historias-de-usuario)
-* [3. Protótipos](#3-prototipos)
-* [4. Testes](#4-testes)
-* [5. Objetivos alcançados](#5-objetivos-alcancados)
-* [6. Desenvolvedoras](#7-desenvolvedoras)
+This project is a social network aimed at women who would like to exchange information about books with a feminist theme. The goal is for users to post brief personal opinions in order to share their readings, new authors, and collaborate in guiding beginner readers.
 
-***
+## 2. Prototypes
 
-## 1. Resumo do projeto
-
-Este projeto é uma rede social voltada para mulheres que gostariam de trocar informações sobre livros com a temática feminista. O objetivo é que as usuárias possam postar breves opiniões pessoais, a fim de compartilhar suas leituras, novas autoras e colaborar com o direcionamento de leitoras iniciantes.
-
-
-## 2. Histórias de usuário
-
-Para entender melhor as necessidades do usuário, foi criado um questionário e enviado para um número considerável de pessoas que se encaixam no público alvo do projeto. 
-
-* [Forms](https://docs.google.com/forms/d/1COMhEm6fq0R220bUlIyGbzvqqAYgm5k8eY-bYp8sGnI/edit)
-
-<p align="center"><img src="src/imagens/respostas-forms.png" height="500px"></p>
-
-A partir dos dados coletados, foram definidas seis histórias de usuário:
-
-
-### 2.1 História de usuário 01
-
-Eu, como interessada na rede, gostaria de realizar meu cadastro autenticado.
-
-Resolução: a função de cadastro é autenticada diretamente a partir do Firebase.
-
-
-### 2.2 História de usuário 02
-
-Eu, enquanto membro da rede social, gostaria de fazer meu login de forma prática - usuário e senha / google.
-
-Resolução: a função de login exige e-mail e senha ou pode ser realizado diretamente pelo Google.
-
-
-### 2.3 História de usuário 03
-
-Eu, como interessada no tema, porém com pouco repertório, gostaria de saber por onde começar as leituras.
-
-Resolução: as postagens das usuárias irão conter pequenos textos partindo do ponto de vista da leitora, permitindo que cada uma se identifique ou não com o livro indicado.
-
-
-### 2.4 História de usuário 04
-
-Pra mim, enquanto amadora no tema, é importante saber se a leitura é de fácil compreensão.
-
-Resolução: foram criadas tags de marcação obrigatória para cada post, com as quais as usuárias vão indicar se o livro é mais recomendada para leitoras iniciantes, intermediárias ou avançadas.
-
-
-### 2.5 História de usuário 05
-
-Eu, como leitora, acho importante saber quem é a autora.
-
-Resolução: foi criado um campo de preenchimento obrigatório para inserção da autora do livro em todas as postagens.
-
-
-### 2.6 História de usuário 06
-
-Eu, que já possuo conhecimento no assunto, gostaria de compartilhar meu ponto de vista num local onde haja interesse.
-
-Resolução: a rede social foi desenvolvida com objetivo único de compartilhamento de leitura feminista, a fim de compor um nicho focado que de fato atenda às necessidades sem dividir o espaço com outros tipos de interesse. Por isso, todos os campos de preenchimento são obrigatórios e objetivados especificamente em título do livro, autora, nível de leitura e caixa de texto para breves comentários pessoais.
-
-
-## 3. Protótipos
-
-### 3.1 Protótipo de baixa fidelidade
+### 2.1 Low-Fidelity Prototype
 
 <p align="center"><img src="src/imagens/prototipo-baixa.png" height="300px"></p>
 
 
-### 3.2 Protótipo de alta fidelidade
+### 2.2 High-Fidelity Prototype
 
-Para o protótipo de alta fidelidade foi utilizada a plataforma Figma.
+For the high-fidelity prototype, the Figma platform was used.
 
 <p align="center"><img src="src/imagens/prototipo-alta.png" height="400px"></p>
 
 
-## 4. Testes
+## 3. Testing
 
-### 4.1 Testes unitários
+### 3.1 Unit Tests
 
-Os testes unitários de todas as funções da aplicação estão passando e cobrem no mínimo 70% de statements, functions, lines e branches.
+The unit tests for all application functions are passing and cover at least 70% of statements, functions, lines, and branche
 
-
-## 5. Objetivos alcançados
-
-  - Usar VanillaJS  ✔
-  - Ser uma SPA.  ✔
-  - Ser _responsivo_.  ✔
-  - Uso de Git e GitHub colaborativo;  ✔
-  - Receber _code review_ de pelo menos uma parceira de outra equipe.  ✔
-  - Fazer _tests_ unitários.  ✔
-  - Testes unitários cobrem um mínimo de 70% de statements, functions, lines e branches.  ✔
-  - Fazer testes manuais buscando erros e imperfeições simples.  ✔
-  - Utilização do Firebase para autenticação e uso do firestore.  ✔
-  - Fazer testes de usabilidade e incorporar o _feedback_ dos usuários como melhorias.  ✔
-  - Fazer deploy do aplicativo e marcar a versão (git tag).  ✔
+## 4. Achieved Objectives
+- Use VanillaJS ✔
+- Be a SPA. ✔
+- Be responsive. ✔
+- Collaborative use of Git and GitHub; ✔
+- Receive code reviews from at least one peer from another team. ✔
+- Conduct unit tests. ✔
+- Unit tests cover a minimum of 70% of statements, functions, lines, and branches. ✔
+- Perform manual testing to seek errors and simple imperfections. ✔
+- Utilize Firebase for authentication and use Firestore. ✔
+- Conduct usability testing and incorporate user feedback as improvements. ✔
+- Deploy the application and tag the version (git tag). ✔
 
 
-## 6. Desenvolvedoras
+## 5. Developed by: 
 
-Giselle Schwab Silva  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/giselle-schwab-silva-58930610a/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/giselleschwab)
+Giselle Schwab Silva  
 
-Melina Osik  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/melina-osik/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/osikmelina)
+Melina Osik 
 
-Talita Martins  [![Linkedin](https://i.stack.imgur.com/gVE0j.png)Linkedin](https://www.linkedin.com/in/talitamsx/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/talitamsx)
+Talita Martins  
